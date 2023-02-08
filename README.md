@@ -3,7 +3,7 @@
 <!--🔭 I’m currently working on-->
 
 - 👀 I’m currently employed as an Cloud Infrastructure Engineer working in a DevOps Engineering team.
-- 📚 I’m currently re-learning Python to help me perform better in my job role. I am also learning Azure, AWS, Terraform & Docker
+- 📚 I’m currently automating pipelines and writting scripts in Python. I am also learning Azure, AWS, Terraform & Docker
 - 💕 I’m looking to collaborate on anything & everything to do with DevOps!
 - 📬 How to reach me: techytish@outlook.com
 - 🚺 Pronouns: she/her
